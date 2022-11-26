@@ -7,12 +7,12 @@ The Speech Emotion Recognition system is builded to detect the emotion from a sp
 
 ## Feature Engineering
 An additional class is used to explore and extract features from a speech file, including Short-Time Fourier Transform (stft), Zero-Crossing Rate (zcr), Root Mean Square (rms), Mel-Frequency Cepstral Coefficients (mfcc), chroma_shift, melspectrogram.
+![image](https://user-images.githubusercontent.com/64537025/204066334-8c91d7aa-8636-4b41-bee7-2462b97a695a.png)
 
 
 ## Dataset
 The database I used in speech emotion recognition is the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) which is available to download on Kaggle. The portion of the RAVDESS I used contains in total of 1440 audio files, by 12 actors and 12 actresses with 60 audio files for each professional actor, speaking two linguistically matched sentences in North American English. This database comprises seven sets of emotions, calm, happy, sad, angry, fearful, surprise, and disgust expressions, plus a neutral emotion.
 ![image](https://user-images.githubusercontent.com/64537025/204066281-0180c24b-fb68-4a78-8003-5634b7e9716b.png)
-
 https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio 
 
 
