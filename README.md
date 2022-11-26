@@ -32,5 +32,12 @@ https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 ![image](https://user-images.githubusercontent.com/64537025/204066133-46ad9bb8-3516-4e0d-a490-87875e78b1e0.png)
 
 
+## Classifiacetion Report
+![image](https://user-images.githubusercontent.com/64537025/204066190-e1682f28-2216-4d2f-91bd-187825de66e1.png)
+
+
+
+
+
 
 
