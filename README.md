@@ -7,3 +7,30 @@ The Speech Emotion Recognition system is builded to detect the emotion from a sp
 
 ## Feature Engineering
 An additional class is used to explore and extract features from a speech file, including Short-Time Fourier Transform (stft), Zero-Crossing Rate (zcr), Root Mean Square (rms), Mel-Frequency Cepstral Coefficients (mfcc), chroma_shift, melspectrogram.
+
+
+## Dataset
+The database I used in speech emotion recognition is the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) which is available to download on Kaggle. The portion of the RAVDESS I used contains in total of 1440 audio files, by 12 actors and 12 actresses with 60 audio files for each professional actor, speaking two linguistically matched sentences in North American English. This database comprises seven sets of emotions, calm, happy, sad, angry, fearful, surprise, and disgust expressions, plus a neutral emotion.
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio 
+
+
+## Python Library
+1. LibROSA 0.9: which adds the building blocks essential to produce music information retrieval systems for music and audio analysis
+2. seaborn 0.11: which is a library for creating statistical graphics, builds on the top of matplotlib and merges closely with pandas data structure 
+3. Sklearn: a set of python modules for machine learning and data mining that supports both supervised and unsupervised learning, model selection and evaluation and so on; it has an in-built neural network model by using the supervised learning, known as multilayer perceptron
+4. pydub: which manipulates audio with a simple and easy high-level interface
+5. pandas
+6. numpy
+7. glob
+8. soundfile
+9. os
+10. sys
+11. matplotlib
+
+
+## Training Model
+![image](https://user-images.githubusercontent.com/64537025/204066133-46ad9bb8-3516-4e0d-a490-87875e78b1e0.png)
+
+
+
+
